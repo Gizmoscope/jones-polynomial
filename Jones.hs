@@ -5,7 +5,7 @@
 module Jones (
     kauffman_bracket,
     unnormalized_jones_polynomial
-)
+) where
 
 import Links
 import Poly
